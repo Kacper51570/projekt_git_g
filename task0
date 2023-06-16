@@ -1,0 +1,1 @@
+w katalogu projektu utworzyć pusty skrypt (bash, python, batch, powershell, inny dowolny), np. installResources.ps1, przy każdej instalacji przez PIP, należy taką samą komendę umieścić w tym skrypcie. Taki skrypt, zawierający listę potrzebnych komponentów pythona będzie niezbędny na etapie konfiguracji automatycznego budowania projek

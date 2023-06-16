@@ -1,2 +1,1 @@
-# projekt_git_g
-projekt git
+# narzedzia-it
